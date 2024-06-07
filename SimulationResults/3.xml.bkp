@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <currentWallTime>2024/02/08 15:42:31</currentWallTime>
+  <simulationTime units="s">33177.06387981600</simulationTime>
+  <elapsedProgramWallTime units="s">138</elapsedProgramWallTime>
+  <elapsedComputationWallTime units="s">131</elapsedComputationWallTime>
+  <elapsedCPUTime units="s">244.4375</elapsedCPUTime>
+  <elapsedSimulationPercent>12.79979316350926</elapsedSimulationPercent>
+  <estimatedFinishTime units="minutes">15.47441753116281</estimatedFinishTime>
+  <massBalanceIndex>.9999999999999973</massBalanceIndex>
+  <numCells>53684</numCells>
+  <numIterations>47941</numIterations>
+  <averageNumCells>38488.95102211088</averageNumCells>
+  <averageMultithreading>2.000000000000000</averageMultithreading>
+  <simulationFinished>0</simulationFinished>
+  <downstreamDistance units="mi">3.000635882796059</downstreamDistance>
+  <percentVolumeInOriginallyWetCells>48.57392586660791</percentVolumeInOriginallyWetCells>
+</xml>
